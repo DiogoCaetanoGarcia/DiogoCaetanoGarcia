@@ -1,4 +1,7 @@
-# _English_
+Associate Professor at the University of Brasília, Gama Campus. He holds a bachelor's degree in Electrical Engineering (2006), a master's degree in Electrical Engineering (2007), and a PhD in Electrical Engineering (2012), all from the University of Brasília. He has worked on research and development projects with several companies and government agencies, such as Eletrobrás Eletronorte, Hewlett-Packard Brasil, Petrobrás, Samsung Research Brasil, and CENSIPAM. He was an electronics maintenance engineer at Eletronorte in 2007 and a professor at the Federal Institute of Brasília (IFB) in 2011. He has experience in digital signal processing, focusing primarily on image and video compression, 3D and multiple-view processing, super-resolution, and power quality.
+
+
+<!--# _English_
 
 ## Personal Description
 
